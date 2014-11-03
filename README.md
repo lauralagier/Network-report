@@ -1,5 +1,6 @@
 Network-report
 ==============
+<div class="align-justify">
 On this report, I am going to describe my personal social links on Facebook. I have studied, lived and work in different parts of France and different countries so my social links are quite heterogeneous.  On my complete graph, I can distinguish 6 main clusters of friends that are not always connected together and that have their own particularities. Each cluster represents a different community with its specific interests, place of location and activities. 
 
 - **Home cluster**: The violet cluster represents some members of my family and all the people I have met around the place I am from in France. It is a community of place that contains communities of circumstance and of interest.  In fact it includes my classmates from school, secondary school and high school, people that I have met in out-of-school activities, friends of friends that became my friends and members of my family that are off-centered in the cluster.
@@ -24,3 +25,4 @@ Some clusters are linked together when two people belonging to two different clu
 In one cluster, it is possible to see influences between people by calculating the degrees of influence between them. To highlight these degrees, I decided to change the size of the nodes according to their influence in the cluster. For example, in the UCD cluster, Paddy Ireland, who is an event organizer for international students, has a large node or a strong centrality, which means that he is linked with a large majority of the other nodes in the cluster. So we can say that he has a strong influence in the cluster.
 
  But in the information professional cluster, the node sizes are quite equal because each person in the class is linked to each other. In other words, there is a betweenness relationship between each members of the cluster. We can’t see a centrality around one of them.
+</div>
